@@ -1,5 +1,5 @@
 # 👩‍💻 About Me: 
-📊 A business-driven data scientist building solutions using Artificial Intelligence & Machine Learning<br>🧲 Enthusiatic about Generative AI and LLMs<br>🤗 Hugging Face User <br> 📈 Data Visualization Specialist <br>⚡ A problem Solver
+📊 A business-driven data scientist building solutions using Artificial Intelligence & Machine Learning<br>🧲 Generative AI and LLMs<br>🤗 Hugging Face <br> 📈 Data Visualization Specialist <br>⚡ A problem Solver
 
 
 ## 🌐 Socials:
